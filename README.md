@@ -1,4 +1,4 @@
-# CS50
+# hello-world
 CS50x COURSE - James Ley
 My first repository on Github
 
